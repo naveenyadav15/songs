@@ -1,0 +1,1 @@
+double cHeight, cWidth;
